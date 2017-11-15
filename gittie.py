@@ -19,3 +19,4 @@ def Adel():
 
 # Valami ide
 
+print("Szia")
