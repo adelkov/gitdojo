@@ -22,6 +22,9 @@ def shout():
 
 # Valami ide
 
+def shout():
+    print("shout")
+
 print("Szia")
 
-my_listt = ["2", 52]
+print("stash apply tester")
