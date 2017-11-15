@@ -23,3 +23,5 @@ def shout():
 # Valami ide
 
 print("Szia")
+
+my_listt = ["2", 52]
