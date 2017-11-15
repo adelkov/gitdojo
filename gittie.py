@@ -11,3 +11,8 @@ def add(a, b):
 
 def Adel():
     print("Szia Adél! :)")
+
+
+
+
+    
