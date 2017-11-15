@@ -9,13 +9,13 @@ def joke():
 def add(a, b):
     return a + b
 
-
 def something(a, b):
     return a - b + 12 
-
 
 def Adel():
     print("Szia Adél! :)")
 
 
+
+# Valami ide
 
