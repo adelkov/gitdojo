@@ -18,5 +18,8 @@ def Adel():
     print("Szia Adél! :)")
 
 
+def shout():
+    print("SZIA ADÉÉÉÉÉL!!!")
+
 
 print("Szia")
