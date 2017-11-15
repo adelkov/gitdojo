@@ -8,3 +8,6 @@ def joke():
     
 def add(a, b):
     return a + b
+
+def something(a, b):
+    return a - b + 12 
