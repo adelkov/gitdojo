@@ -19,3 +19,4 @@ def Adel():
 
 
 
+print("Szia")
