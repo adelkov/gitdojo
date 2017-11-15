@@ -19,9 +19,9 @@ def Adel():
 def shout():
     print("SZIA ADÉÉÉÉÉL!!!")
 
+#ez kell a listhez
 
 # Valami ide
-
 def shout():
     print("shout")
 
